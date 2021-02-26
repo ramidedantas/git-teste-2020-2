@@ -6,7 +6,7 @@ public class HelloWorld {
 
 		System.out.println("Eclipse + BASH!");
 
-		System.out.println("Bash - branch Bash");
+		System.out.println("Bash - branch Bash!");
 	}
 
 }
