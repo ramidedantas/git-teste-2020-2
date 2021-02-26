@@ -6,7 +6,7 @@ public class HelloWorld {
 
 		System.out.println("Eclipse + BASH!");
 
-		System.out.println("Bash - branch Master!");
+		System.out.println("Bash - merger Master + Bash");
 	}
 
 }
